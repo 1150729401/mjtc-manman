@@ -6,7 +6,7 @@ window.SITE_CONFIG = {
   "subtitle": "闽江师范高等专科学校·慢慢 | 24h 在线答疑",
   "serviceLine": "0591-23510071（招办）/ 0591-23510115（监督）",
   "admissionPhone": "0591-23510071",
-  "consultPhone": "13250257362",
+  "consultPhone": "13950257362",
   "notice": "本答疑为参考，最终以学校官方公告为准。",
   "inputPlaceholder": "想问点什么？比如：宿舍几人间？学费多少？",
   "inputTip": "新同学问得多的是宿舍、学费、专升本",
